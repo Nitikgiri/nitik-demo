@@ -1,2 +1,2 @@
 # nitik-demo
-this a demo for git &amp; github
+this a demo for git &amp; github.
